@@ -1,20 +1,5 @@
 # Text to Speech Sound Generation with Next.js
 
-Welcome to the **Text to Speech Sound Generation** project built using Next.js! This project demonstrates the generation of sound using pre-trained hugging face models. Users can select different hugging face sound models and input text to generate corresponding audio. The generated audio can be played back directly on the web interface.
-
-## Overview
-
-This project showcases how to leverage pre-trained hugging face models along with the Hugging Face inference API to convert input text into synthesized speech. The user interface provides a selection of sound models to choose from and an input field to enter the desired text. Once submitted, the application fetches the generated audio from the model's API and presents it in an audio player.
-
-
-## Architecture 
-![image](https://tyhgectxutilszaayoua.supabase.co/storage/v1/object/public/misc/text-to-speech-model.png?t=2023-08-14T02%3A52%3A52.637Z)
-
-
-
-## Notes
-This application relies heavily on the stability of the Hugging Face Inference API models. Please note that occasional random errors may occur.
-
 ## How to Run the Project
 
 ### Prerequisites
